@@ -1,2 +1,2 @@
-# hello2
+# hello
 GitHubフローの練習
