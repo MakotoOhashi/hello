@@ -1,7 +1,6 @@
 # hello
 GitHubフローの練習
-
-#自己紹介
+自己紹介
 
 ## 名前
 - **大橋真琴**
@@ -13,15 +12,4 @@ GitHubフローの練習
 ## 個人情報
 - 誕生日　5/25
 - B型　
-
-
-kokoko
-
-## リポジトリの導入
-- terminal上で、リポジトリをダウンロードしたい場所に移動
-- git cloneする
-  - 現在の場所の直下にMakuranoSousiリポジトリが作成される 
-```bash
-git clone https://github.com/terakawakohei/MakuranoSousi.git
-```
-- VSCode等のエディタでMakuranoSousiを開く
+- 大阪出身
